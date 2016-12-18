@@ -1,1 +1,1 @@
-# giphyApi
+# gifTasticApi
